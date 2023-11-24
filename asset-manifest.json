@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pertemuan-15-Front_end/static/css/main.1f314dc5.css",
+    "main.js": "/pertemuan-15-Front_end/static/js/main.4ef1962f.js",
+    "static/js/787.d743d556.chunk.js": "/pertemuan-15-Front_end/static/js/787.d743d556.chunk.js",
+    "index.html": "/pertemuan-15-Front_end/index.html",
+    "main.1f314dc5.css.map": "/pertemuan-15-Front_end/static/css/main.1f314dc5.css.map",
+    "main.4ef1962f.js.map": "/pertemuan-15-Front_end/static/js/main.4ef1962f.js.map",
+    "787.d743d556.chunk.js.map": "/pertemuan-15-Front_end/static/js/787.d743d556.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f314dc5.css",
+    "static/js/main.4ef1962f.js"
+  ]
+}
